@@ -1,0 +1,20 @@
+Test# 1
+players
+id  name        club         age   position
+1   L. Messi    FC Barcelona null  Forward
+2   C. Ronaldo  FC Juventus  37    Forward
+
+Test# 2
+users
+id  name  phone  address
+1   X     51874  1
+2   Y     44125  2
+address
+id  flat  house  area      city
+1   A3    50     Dhanmondi Dhaka
+2   A4    45/B   Uttara    Dhaka
+emails
+id users emails
+3  2     y@o.co
+2  1     x@h.co
+1  1     x@g.co
